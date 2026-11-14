@@ -6,11 +6,11 @@
 
 ###
 
-<h3 data-importer="text" align="left"></h3>
+<h3> data-importer="text" align="left"></h3>
 
 ###
 
-<h4 data-importer="text" align="left">👩‍💻 About Me<br><br>- 🎓 I'm currently pursuing TY BSc Computer Science.<br>- Passionate about Software Development, Artificial Intelligence and Data Analytics.<br>- Interested in Python programming <br>- Interested in data analysis, problem-solving and technology.<br>-  Love building creative projects and learning new technologies.<br>- Always curious to explore, experiment and improve my coding skills.<br>- Aspiring to become a skilled Software Developer and AI Professional.</h4>
+<h5 data-importer="text" align="left">👩‍💻 About Me<br><br>- 🎓 I'm currently pursuing TY BSc Computer Science.<br>- Passionate about Software Development, Artificial Intelligence and Data Analytics.<br>- Interested in Python programming <br>- Interested in data analysis, problem-solving and technology.<br>-  Love building creative projects and learning new technologies.<br>- Always curious to explore, experiment and improve my coding skills.<br>- Aspiring to become a skilled Software Developer and AI Professional.</h5>
 
 ###
 
