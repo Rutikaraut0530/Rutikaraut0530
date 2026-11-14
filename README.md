@@ -9,10 +9,9 @@ Python Developer • AI & Machine Learning Enthusiast • Data Analytics Learner
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- 🎓 I'm currently pursuing TY BSc Computer Science.
-- 💻 Passionate about Software Development, Artificial Intelligence and Data Analytics.
-- 🐍 Interested in Python programming.
-- 📊 Interested in Data Analysis, problem-solving and technology.
-- 🚀 Love building creative projects and learning new technologies.
-- 🌱 Always curious to explore, experiment and improve my coding skills.
-- 🎯 Aspiring to become a skilled Software Developer and AI Professional.
+- I'm currently pursuing TY BSc Computer Science.
+- Passionate about Software Development, Artificial Intelligence and Data Analytics.
+- Interested in Python programming.
+- Interested in Data Analysis, problem-solving and technology.
+- Always curious to explore, experiment and improve my coding skills.
+- Aspiring to become a skilled Software Developer.
