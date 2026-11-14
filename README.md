@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Rutika Raut</h1>
 
 <h3 align="center">
-Computer Science Student <br>
+| Computer Science Student | <br>
 Python Developer • AI & Machine Learning Enthusiast • Data Analytics Learner
 </h3>
 
