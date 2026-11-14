@@ -2,15 +2,15 @@
 
 ###
 
-<h1 data-importer="text" align="left">Computer Science Student <br>Python Developer • AI & Machine Learning Enthusiast • Data Analytics Learner</h1>
+<h1 data-importer="text" align="center">Computer Science Student <br>Python Developer • AI & Machine Learning Enthusiast • Data Analytics Learner</h1>
 
 ###
 
-<h2 data-importer="text" align="left">👩‍💻 About Me<br><br>- 🎓 I'm currently pursuing TY BSc Computer Science.<br>- 💻 Passionate about Software Development, Artificial Intelligence and Data Analytics.<br>- Interested in Python programming <br>- 📊 Interested in data analysis, problem-solving and technology.<br>- 🚀 Love building creative projects and learning new technologies.<br>- 🌱 Always curious to explore, experiment and improve my coding skills.<br>- 🎯 Aspiring to become a skilled Software Developer and AI Professional.</h2>
+<h1 data-importer="text" align="left">👩‍💻 About Me<br><br>- 🎓 I'm currently pursuing TY BSc Computer Science.<br>- 💻 Passionate about Software Development, Artificial Intelligence and Data Analytics.<br>- Interested in Python programming <br>- 📊 Interested in data analysis, problem-solving and technology.<br>- 🚀 Love building creative projects and learning new technologies.<br>- 🌱 Always curious to explore, experiment and improve my coding skills.<br>- 🎯 Aspiring to become a skilled Software Developer and AI Professional.</h1>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left"></h2>
 
 ###
 
