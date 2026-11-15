@@ -17,6 +17,7 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 
 ---
 
+
 <h2>🛠️ Tech Stack</h2>
 
 <h3>💻 Programming Languages</h3>
@@ -54,6 +55,7 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 
 ---
 
+
 <h2>🏆 Certifications & Achievements</h2>
 
 - 🎓 Internship Certificate
@@ -66,6 +68,7 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 
 ---
 
+
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -74,6 +77,7 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 
 ---
 
+
 <h2>💻 Most Used Languages</h2>
 
 <p align="center">
@@ -81,6 +85,7 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 </p>
 
 ---
+
 
 <h2>🔥 GitHub Contribution Streak</h2>
 
