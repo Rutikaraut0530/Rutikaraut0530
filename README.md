@@ -57,8 +57,6 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RutikaRaut0530&layout=compact&theme=tokyonight)
 
+## 🔥 GitHub Contribution Streak
 
-
-## 🔥 Current GitHub Streak
-
-![Current Streak](https://streak-stats.demolab.com?user=RutikaRaut0530&theme=tokyonight&hide_longest_streak=true&hide_total_contributions=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rutikaraut0530&theme=tokyonight)](https://git.io/streak-stats)
