@@ -2,7 +2,7 @@
 
 <h3 align="center">
 | Computer Science Student | <br>
-Python Developer • Data Science & Full Stack Enthusiast • Exploring AI/ML
+Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Stack Development Learner
 </h3>
 
 ---
