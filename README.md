@@ -2,15 +2,16 @@
 
 <h3 align="center">
 | Computer Science Student | <br>
-Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Stack Development Learner
+Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Stack Learner
 </h3>
 
 ---
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- I'm currently pursuing TY BSc Computer Science.
-- Passionate about Software Development, Artificial Intelligence and Data Analytics.
-- Interested in Data Analysis, Python programming.
-- Always curious to explore, experiment and improve my coding skills.
-- Aspiring to become a skilled Software Developer.
+🎓 Third-year B.Sc. Computer Science student.
+💻 Interested in Python Development and Software Development.
+📊 Learning Data Science and Data Analytics.
+🌐 Exploring Full Stack Web Development.
+🤖 Exploring Artificial Intelligence and Machine Learning.
+🚀 Building practical projects to improve my technical skills.
