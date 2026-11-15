@@ -15,19 +15,13 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 🌐 Exploring Full Stack Web Development.<br>
 🤖 Exploring Artificial Intelligence and Machine Learning.<br>
 🚀 Building practical projects to improve my technical skills.<br>
-<h2>🛠️ Technical Skills</h2>
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,css"/>
-</p>
-
-<h2>⚙️ Tools Used</h2>
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-<h2>🗄️ Databases</h2>
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+ <h2 align="left">💻 Programming Languages</h2><p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,java" />
+</p><h2 align="left">🗄️ Databases</h2><p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p><h2 align="left">⚙️ Tools & Technologies</h2><p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,streamlit" />
+</p><h2 align="left">📊 Data Science & Machine Learning</h2><p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,matplotlib,plotly" />
 </p>
