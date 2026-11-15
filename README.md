@@ -9,9 +9,9 @@ Python Developer • Aspiring Data Scientist • AI & ML Enthusiast • Full Sta
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-🎓 Third-year B.Sc. Computer Science student.
-💻 Interested in Python Development and Software Development.
-📊 Learning Data Science and Data Analytics.
-🌐 Exploring Full Stack Web Development.
-🤖 Exploring Artificial Intelligence and Machine Learning.
-🚀 Building practical projects to improve my technical skills.
+🎓 Third-year B.Sc. Computer Science student.<br>
+💻 Interested in Python Development and Software Development.<br>
+📊 Learning Data Science and Data Analytics.<br>
+🌐 Exploring Full Stack Web Development.<br>
+🤖 Exploring Artificial Intelligence and Machine Learning.<br>
+🚀 Building practical projects to improve my technical skills.<br>
